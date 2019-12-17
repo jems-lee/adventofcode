@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f040d4-bfcf-40f7-b4b2-a6c400775a98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UzfrdWAjet48psykKWkDbnIAyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jinhee/day03.py" />
+    <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
+  </component>
+  <component name="RunManager">
+    <configuration name="day03" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="adventofcode2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/adventofcode2019/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jinhee" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jinhee/day03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f040d4-bfcf-40f7-b4b2-a6c400775a98" name="Default Changelist" comment="" />
+      <created>1576364543800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576364543800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1872" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576467547973">
+      <screen x="44" y="27" width="3396" height="1413" />
+    </state>
+    <state x="1872" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576467547973" />
+    <state x="2197" y="491" width="424" height="482" key="FileChooserDialogImpl" timestamp="1576467546043">
+      <screen x="44" y="27" width="3396" height="1413" />
+    </state>
+    <state x="2197" y="491" width="424" height="482" key="FileChooserDialogImpl/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576467546043" />
+    <state width="1110" height="397" key="GridCell.Tab.0.bottom" timestamp="1576598727199">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state width="1110" height="397" key="GridCell.Tab.0.bottom/44.27.1876.1053/3440.240.1920.1080@44.27.1876.1053" timestamp="1576598727199" />
+    <state width="2028" height="397" key="GridCell.Tab.0.bottom/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576473729102" />
+    <state width="1110" height="397" key="GridCell.Tab.0.center" timestamp="1576598727198">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state width="1110" height="397" key="GridCell.Tab.0.center/44.27.1876.1053/3440.240.1920.1080@44.27.1876.1053" timestamp="1576598727198" />
+    <state width="2028" height="397" key="GridCell.Tab.0.center/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576473729102" />
+    <state width="1110" height="397" key="GridCell.Tab.0.left" timestamp="1576598727197">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state width="1110" height="397" key="GridCell.Tab.0.left/44.27.1876.1053/3440.240.1920.1080@44.27.1876.1053" timestamp="1576598727197" />
+    <state width="2028" height="397" key="GridCell.Tab.0.left/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576473729102" />
+    <state width="1110" height="397" key="GridCell.Tab.0.right" timestamp="1576598727198">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state width="1110" height="397" key="GridCell.Tab.0.right/44.27.1876.1053/3440.240.1920.1080@44.27.1876.1053" timestamp="1576598727198" />
+    <state width="2028" height="397" key="GridCell.Tab.0.right/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576473729102" />
+    <state x="2094" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1576460349450">
+      <screen x="44" y="27" width="3396" height="1413" />
+    </state>
+    <state x="2094" y="561" key="com.intellij.ide.util.TipDialog/44.27.3396.1413/3440.240.1920.1080@44.27.3396.1413" timestamp="1576460349450" />
+    <state x="645" y="259" key="search.everywhere.popup" timestamp="1576611901442">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state x="645" y="259" key="search.everywhere.popup/44.27.1876.1053/3440.240.1920.1080@44.27.1876.1053" timestamp="1576611901442" />
+  </component>
+</project>
