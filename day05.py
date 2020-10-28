@@ -87,7 +87,7 @@ def main():
     test7 = [102, 8, 223, 223]
 
     final_intcode = read_intcode2(int_code)
-    # print(final_intcode)
+    print(final_intcode)
     # 4511442
 
 
